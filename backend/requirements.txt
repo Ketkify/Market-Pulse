@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+cachetools
+pydantic
+pydantic<3.0.0
+pydantic-settings
+yfinance
